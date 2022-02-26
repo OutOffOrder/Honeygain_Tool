@@ -10,9 +10,12 @@ This is the Honeygain Dashboard AutoStart setup.
 
 This is for honeygain only.
 
-I assume no liability if other data is lost.
+!!I assume no liability if other data is lost!!
+
+!!If you use the tool, I assume no liability!!
 
 Have fun :)
+
 
 
 
